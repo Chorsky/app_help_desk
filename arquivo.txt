@@ -1,0 +1,4 @@
+4|Minha impressora nao liga|Impressora|Não está ligando mais minha impressora, o que pode ser ?
+3|Problema com a impressora|Impressora|fsaf
+3|Sem internet|Rede|ESTOU SEM INTERNET
+4|Sem internet|Rede|ESTOU SEM INTERNET
